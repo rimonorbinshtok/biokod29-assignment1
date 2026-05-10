@@ -1,0 +1,12 @@
+assignment evaluation:
+Excellent and creative solution. The use of IUPAC notation together with automatic conversion to regex is especially elegant and demonstrates deeper understanding beyond the basic assignment requirements. The code is modular, clear, and correctly processes the FASTA file, searches for restriction sites, and generates the required output.
+
+There are a few points that could improve the project further:
+
+It would be better to use with open(...) for safer and more standard file handling.
+The assignment required a specific folder structure (data/, results/) and output filename, but the submitted paths/files do not fully follow the required structure.
+The README is missing important explanations about the project structure, the role of each file/script, and instructions for running the program.
+
+Overall, this is a very strong and thoughtful implementation.
+
+Grade: 14/14
